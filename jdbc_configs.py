@@ -1,0 +1,5 @@
+jdbc_url = "jdbc:mysql://217.61.57.46:3306/olympic_dataset"
+jdbc_table_results = "athlete_event_results"
+jdbc_table_bio = "athlete_bio"
+jdbc_user = "neo_data_admin"
+jdbc_password = "Proyahaxuqithab9oplp"
